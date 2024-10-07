@@ -603,7 +603,7 @@
             <mxPoint x="-430" y="-73.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8NDgQ50gFQI0GU3UAlsf-31" value="Адрес доставки" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="8NDgQ50gFQI0GU3UAlsf-31" value="Адрес&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-182" y="17" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8NDgQ50gFQI0GU3UAlsf-32" value="Имеет адрес" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" parent="1" vertex="1">
